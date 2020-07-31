@@ -1,0 +1,561 @@
+{"id": "f68cc980909f2825a85c918ac849d91f",
+  "application_label": "HR Conference",
+  "application_name": "test.asset",
+  "application_version": "1.13.2.4",
+  "platform": "ios",
+  "analyzed": true,
+  "updated_at": "2017-09-18T22:59:25.717Z",
+  "private_app": false,
+  "developer": "Doodle Worldwide",
+  "source": "Unknown",
+  "publisher": "Unknown",
+  "scores": {
+    "legacy_trust_score": 59,
+    "risk_score": 8
+  },
+  "threat_indicators": {
+    "active": [
+      {
+        "id": "007e014b-14aa-4e37-8a7d-2a43ee7b6893",
+        "name": "Network Connection to Malicious Site",
+        "description": "The application made a network connection made to a server classified as malicious.",
+        "type": "AppThreatIndicator",
+        "risk_score": 8,
+        "ios": true,
+        "android": true,
+        "updated_at": "2018-01-16T21:53:01.203Z",
+        "active": true
+      },
+      {
+        "id": "4f6abc68-947e-4dba-8a04-0cc802968389",
+        "name": "Network Data Sent to a \"High Risk\" Server",
+        "description": "The application made a network connction to a site that is \"High Risk\" by calculated reputation.",
+        "type": "AppThreatIndicator",
+        "risk_score": 8,
+        "ios": true,
+        "android": true,
+        "updated_at": "2018-01-16T21:53:01.260Z",
+        "active": true
+      },
+      {
+        "id": "776aec59-5901-4886-a53f-c2ffe9f53786",
+        "name": "Can Access Camera",
+        "description": "The application can access the device camera. Improper handling of pictures by the application may disclose them to unintended parties.",
+        "type": "AppThreatIndicator",
+        "risk_score": 2,
+        "ios": true,
+        "android": true,
+        "updated_at": "2018-01-16T21:52:55.449Z",
+        "active": true
+      },
+      {
+        "id": "352339be-745e-4094-9d04-0e96f618e188",
+        "name": "Can Access Microphone",
+        "description": "The application can access the device microphone. Improper handling of recordings by the application may disclose them to unintended parties.",
+        "type": "AppThreatIndicator",
+        "risk_score": 2,
+        "ios": true,
+        "android": true,
+        "updated_at": "2018-04-26T20:22:11.927Z",
+        "active": true
+      },
+      {
+        "id": "8223ca9e-7918-453d-ac90-c24fa2e56828",
+        "name": "Can Access Calendar",
+        "description": "The application can access the calendar. Improper handling of sensitive data by the application may disclose it to unintended parties.",
+        "type": "AppThreatIndicator",
+        "risk_score": 3,
+        "ios": true,
+        "android": true,
+        "updated_at": "2018-01-16T21:52:55.707Z",
+        "active": true
+      },
+      {
+        "id": "c912ed1f-2016-4593-aa0c-8fbc3578f3f8",
+        "name": "Contains URL with Sensitive Data",
+        "description": "The application may transmit sensitive data (UDID, IMEI, device IP, password, location) as a query parameter and without proper encryption. This allows an adversary to see the data as it traverses the network.",
+        "type": "AppThreatIndicator",
+        "risk_score": 3,
+        "ios": true,
+        "android": true,
+        "updated_at": "2018-01-16T21:52:56.525Z",
+        "active": true
+      },
+      {
+        "id": "b68cc18f-e35f-4388-9479-06c5e00d7828",
+        "name": "Makes Failed Network Connections",
+        "description": "The application makes network connection attempts that consisently result in failure (e.g. attempts to an invalid IP address).",
+        "type": "AppThreatIndicator",
+        "risk_score": 0,
+        "ios": true,
+        "android": true,
+        "updated_at": "2018-01-16T21:52:57.221Z",
+        "active": true
+      },
+      {
+        "id": "e315cdee-fae8-4b31-88a9-958b2cc9f1ea",
+        "name": "Allows Sending Email",
+        "description": "The application allows the user to draft and send an email from within the app, if the user's device is already configured for sending email.",
+        "type": "AppThreatIndicator",
+        "risk_score": 0,
+        "ios": true,
+        "android": false,
+        "updated_at": "2018-01-16T21:52:57.108Z",
+        "active": true
+      },
+      {
+        "id": "faa81fe2-b836-4829-bf3c-cadb0861397e",
+        "name": "Accesses UDID or IMEI",
+        "description": "The application accesses the device's Unique Device Identifier or International Mobile Equipment Identifier. These attributes are used to uniquely identify users and if used improperly will compromise the user's privacy.",
+        "type": "AppThreatIndicator",
+        "risk_score": 1,
+        "ios": true,
+        "android": true,
+        "updated_at": "2018-01-16T21:52:57.386Z",
+        "active": true
+      },
+      {
+        "id": "ffe23ef6-86ef-4aad-bee7-e659a041097d",
+        "name": "Discloses File Path to Source Code",
+        "description": "The application includes the file path to source code files. An adversary may use this information to learn about the internal structure of the app development organization.",
+        "type": "AppThreatIndicator",
+        "risk_score": 1,
+        "ios": true,
+        "android": true,
+        "updated_at": "2018-01-16T21:52:57.792Z",
+        "active": true
+      },
+      {
+        "id": "94ee51ce-0a9c-4b6e-9d01-8f9fd1010bc7",
+        "name": "Can Connect to Facebook Social Network",
+        "description": "The application may connect to Facebook, potentially sharing or obtaining private user data.",
+        "type": "AppThreatIndicator",
+        "risk_score": 1,
+        "ios": true,
+        "android": true,
+        "updated_at": "2018-01-16T21:52:58.734Z",
+        "active": true
+      },
+      {
+        "id": "58c228a0-236f-41e5-a399-3c628e1ba67a",
+        "name": "Can Connect to Social Networking Platforms",
+        "description": "The application may connect to a social networking platform, potentially sharing or obtaining private user data.",
+        "type": "AppThreatIndicator",
+        "risk_score": 1,
+        "ios": true,
+        "android": true,
+        "updated_at": "2018-01-16T21:52:58.928Z",
+        "active": true
+      },
+      {
+        "id": "a2e5c959-2968-4546-a03c-e65a2d8bd26e",
+        "name": "Can Connect to Twitter Social Network",
+        "description": "The application may connect to Twitter, potentially sharing or obtaining private user data.",
+        "type": "AppThreatIndicator",
+        "risk_score": 1,
+        "ios": true,
+        "android": true,
+        "updated_at": "2018-01-16T21:52:58.979Z",
+        "active": true
+      },
+      {
+        "id": "f031c693-a453-42fc-a37a-e6588977e053",
+        "name": "Displays Ads",
+        "description": "The application uses third party frameworks to display advertisements, potentially sharing sensitive data with ad providers.",
+        "type": "AppThreatIndicator",
+        "risk_score": 1,
+        "ios": true,
+        "android": true,
+        "updated_at": "2018-01-16T21:53:00.380Z",
+        "active": true
+      },
+      {
+        "id": "846a83e6-9bac-4937-93a2-0a880c1e1794",
+        "name": "Can Use Admob Advertising Provider",
+        "description": "The application may use the Admob platform to display advertisements. Apps may share sensitive data with ad providers.",
+        "type": "AppThreatIndicator",
+        "risk_score": 1,
+        "ios": true,
+        "android": true,
+        "updated_at": "2018-01-16T21:53:00.073Z",
+        "active": true
+      },
+      {
+        "id": "6904ca83-ff17-40dc-9e2b-992205dbd65b",
+        "name": "Can Connect to LinkedIn Social Network",
+        "description": "The application may connect to LinkedIn, potentially sharing or obtaining private user data.",
+        "type": "AppThreatIndicator",
+        "risk_score": 1,
+        "ios": true,
+        "android": true,
+        "updated_at": "2018-01-16T21:52:58.872Z",
+        "active": true
+      },
+      {
+        "id": "b0fd1022-1311-4179-b3a6-c779cf29454f",
+        "name": "Sends Data Unencrypted",
+        "description": "The application creates network connections that don't use SSL. Improper encryption of data during transfer or on end server may disclose them to unintended parties.",
+        "type": "AppThreatIndicator",
+        "risk_score": 4,
+        "ios": true,
+        "android": true,
+        "updated_at": "2018-01-16T21:52:56.654Z",
+        "active": true
+      },
+      {
+        "id": "1789ca8c-1eaa-4e22-9dd8-6244478ac276",
+        "name": "Opens Network Ports",
+        "description": "The application creates ports to listen to incoming connections. This behavior might allow an adversary to exploit a possible vulnerability.",
+        "type": "AppThreatIndicator",
+        "risk_score": 0,
+        "ios": true,
+        "android": false,
+        "updated_at": "2018-01-16T21:52:57.570Z",
+        "active": true
+      }
+    ],
+    "inactive": [
+      {
+        "id": null,
+        "name": "Can Access Location",
+        "description": "The application may access the user's location. Improper handling of sensitive data by the application may disclose it to unintended parties.",
+        "type": "AppThreatIndicator",
+        "risk_score": 3,
+        "ios": true,
+        "android": true,
+        "updated_at": "2018-06-05T23:40:49.291Z",
+        "active": false
+      },
+      {
+        "id": "0e9800ed-5c7f-403c-ae50-910050445b11",
+        "name": "Accesses Internet",
+        "description": "The application creates ports to establish network connections.",
+        "type": "AppThreatIndicator",
+        "risk_score": 0,
+        "ios": true,
+        "android": true,
+        "updated_at": "2018-01-16T21:52:57.052Z",
+        "active": false
+      },
+      {
+        "id": "a4ef74ab-fea9-46af-a5fa-8f10a563092e",
+        "name": "References Private IPs",
+        "description": "The application references an IP address in the private network range. An adversary may use these addresses to learn about the internal structure of the app development organization's network.",
+        "type": "AppThreatIndicator",
+        "risk_score": 0,
+        "ios": true,
+        "android": true,
+        "updated_at": "2018-01-16T21:52:58.267Z",
+        "active": false
+      },
+      {
+        "id": "15901048-ca77-4109-9853-6a061fcc5a83",
+        "name": "Handles Custom URL Schemes",
+        "description": "The application has the ability to open custom URL schemes.",
+        "type": "AppThreatIndicator",
+        "risk_score": 0,
+        "ios": true,
+        "android": true,
+        "updated_at": "2018-01-16T21:52:57.923Z",
+        "active": false
+      }
+    ]
+  },
+  "network_resources": [
+    {
+      "host": "www.apple.com"
+    },
+    {
+      "host": "www.youtube.com"
+    },
+    {
+      "host": "www.youtube.com"
+    }
+  ],
+  "network_uris": [
+    {
+      "uri": "http://www.apple.com/quicktime/download/\" width=\"%0.0f\" height=\"%0.0f\"></embed></body></html>"
+    },
+    {
+      "uri": "http://www.youtube.com/v/"
+    },
+    {
+      "uri": "https://www.youtube.com/v/"
+    }
+  ],
+  "emails": [
+    {
+      "email": "feedback@2x.pn"
+    }
+  ],
+  "connections": [
+    {
+      "dst": "1.2.3.4:80",
+      "src": "1.1.2.1:493",
+      "ssl": false,
+      "recv": 3854,
+      "send": 217,
+      "urls": [
+        {
+          "url": "http://test-services.com/mobile",
+          "bcri": 50,
+          "a1cat": false,
+          "categories": [
+            [
+              "Computer and Internet Info",
+              "Productivity",
+              93
+            ]
+          ]
+        }
+      ],
+      "geoip": {
+        "city": "Cambridge",
+        "country": {
+          "name": "United States",
+          "iso_code": "US"
+        },
+        "location": {
+          "latitude": 42.3626,
+          "longitude": -71.0843,
+          "time_zone": "America/New_York",
+          "metro_code": 506
+        },
+        "continent": "North America",
+        "postal_code": "02142",
+        "reg_country": {
+          "name": "United States",
+          "iso_code": "US"
+        },
+        "subdivisions": [
+          {
+            "name": "Massachusetts",
+            "iso_code": "MA"
+          }
+        ]
+      }
+    },
+    {
+      "dst": "1.2.1.1:80",
+      "src": "1.1.2.1:49",
+      "ssl": false,
+      "recv": 26412,
+      "send": 792,
+      "urls": [
+        {
+          "url": "http://app.como-services.com/api/app/f270cff7-1fee-4649-8b29-e8005744/1?appVersion=4.3.0.23",
+          "bcri": 50,
+          "a1cat": false,
+          "categories": [
+            [
+              "Computer and Internet Info",
+              "Productivity",
+              93
+            ]
+          ]
+        },
+        {
+          "url": "http://app.como-services.com/api/appstyletemplate/ce7939a7-ebaf-49bef-c42d1cf458c9",
+          "bcri": 50,
+          "a1cat": false,
+          "categories": [
+            [
+              "Computer and Internet Info",
+              "Productivity",
+              93
+            ]
+          ]
+        },
+        {
+          "url": "http://app.como-services.com/api/translate/mobile.client%2Cmobile.loleFormat/EN-US/1",
+          "bcri": 50,
+          "a1cat": false,
+          "categories": [
+            [
+              "Computer and Internet Info",
+              "Productivity",
+              93
+            ]
+          ]
+        }
+      ],
+      "geoip": {
+        "city": "Cambridge",
+        "country": {
+          "name": "United States",
+          "iso_code": "US"
+        },
+        "location": {
+          "latitude": 42.3626,
+          "longitude": -71.0843,
+          "time_zone": "America/New_York",
+          "metro_code": 506
+        },
+        "continent": "North America",
+        "postal_code": "02142",
+        "reg_country": {
+          "name": "United States",
+          "iso_code": "US"
+        },
+        "subdivisions": [
+          {
+            "name": "Massachusetts",
+            "iso_code": "MA"
+          }
+        ]
+      }
+    },
+    {
+      "dst": "1.3.1.1:80",
+      "src": "1.1.1.1:493",
+      "ssl": false,
+      "recv": 15212,
+      "send": 1146,
+      "urls": [
+        {
+          "url": "http://images.mobile.conduit-services.com/icon/external/?src=http%3A%2F%2Fs.conduit.com%2Fmobile%2Fe1%2Ffc%2Fe197d1c6-86fc-4c0f-aab2-df6598516d80%2FImages%2Fbefa6ab2-9fa3-4e7f-a3fa-aabfcb42a549.Png&sizeId=16",
+          "bcri": 10,
+          "a1cat": false,
+          "categories": [
+            [
+              "Spyware and Adware",
+              "Security",
+              85
+            ]
+          ]
+        },
+        {
+          "url": "http://images.mobile.conduit-services.com/icon/external/?src=http%3A%2F%2Fs.conduit.com%2Fm-86fc-4c0f-aab2-df6598516d80%2FImages%2F57869909-1e25-4fcf-8833-ec406780f8e6.Png&sizeId=16",
+          "bcri": 10,
+          "a1cat": false,
+          "categories": [
+            [
+              "Spyware and Adware",
+              "Security",
+              85
+            ]
+          ]
+        },
+        {
+          "url": "http://images.mobile.conduit-services.com/icon/external/?src=http%3A%2F%2Fs.conduit.com%2Fmobile%2Fe1c-4c0f-aab2-df6598516d80%2FImages%2F9d7a3086-bfda-488a-85c8-a177ba1f207e.Png&sizeId=16",
+          "bcri": 10,
+          "a1cat": false,
+          "categories": [
+            [
+              "Spyware and Adware",
+              "Security",
+              85
+            ]
+          ]
+        }
+      ],
+      "geoip": {
+        "city": "Cambridge",
+        "country": {
+          "name": "United States",
+          "iso_code": "US"
+        },
+        "location": {
+          "latitude": 42.3626,
+          "longitude": -71.0843,
+          "time_zone": "America/New_York",
+          "metro_code": 506
+        },
+        "continent": "North America",
+        "postal_code": "02142",
+        "reg_country": {
+          "name": "United States",
+          "iso_code": "US"
+        },
+        "subdivisions": [
+          {
+            "name": "Massachusetts",
+            "iso_code": "MA"
+          }
+        ]
+      }
+    },
+    {
+      "dst": "1.9.2.1:8",
+      "src": "2.8.2.1:434",
+      "ssl": false,
+      "recv": 220,
+      "send": 315,
+      "urls": [
+        {
+          "url": "http://s.conduit.com/mobile/e1/fc/e197d1c6-86fc-4c0-aab2-df6598/Images/967b0120-72f7-4445-8025-887536893229.Jpeg",
+          "bcri": 92,
+          "a1cat": false,
+          "categories": [
+            [
+              "Business and Economy",
+              "Productivity",
+              99
+            ]
+          ]
+        }
+      ],
+      "geoip": {
+        "city": null,
+        "country": {
+          "name": "United States",
+          "iso_code": "US"
+        },
+        "location": {
+          "latitude": 38,
+          "longitude": -97,
+          "time_zone": null,
+          "metro_code": null
+        },
+        "continent": "North America",
+        "postal_code": null,
+        "reg_country": {
+          "name": "United States",
+          "iso_code": "US"
+        },
+        "subdivisions": []
+      }
+    },
+    {
+      "dst": "1.2.1.5:80",
+      "src": "1.8.5.2:466",
+      "ssl": false,
+      "recv": 220,
+      "send": 370,
+      "urls": [
+        {
+          "url": "http://s.conduit.com/mobile/e1/fc/e197d1c6-86fc-4c0f-aab2-df6598516d80/I/f80dd84e-ea93-478b-bae6-8d19a6463fcb.Jpeg",
+          "bcri": 92,
+          "a1cat": false,
+          "categories": [
+            [
+              "Business and Economy",
+              "Productivity",
+              99
+            ]
+          ]
+        }
+      ],
+      "geoip": {
+        "city": null,
+        "country": {
+          "name": "United States",
+          "iso_code": "US"
+        },
+        "location": {
+          "latitude": 38,
+          "longitude": -97,
+          "time_zone": null,
+          "metro_code": null
+        },
+        "continent": "North America",
+        "postal_code": null,
+        "reg_country": {
+          "name": "United States",
+          "iso_code": "US"
+        },
+        "subdivisions": []
+      }
+    }
+  ]
+}

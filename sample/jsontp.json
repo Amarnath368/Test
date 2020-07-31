@@ -1,0 +1,4558 @@
+{
+	"userGroupId": "1",
+	"projectId": "100",
+	"clientId": "9",
+	"workspaceId": "16",
+	"streamUid": "D35D9A56-2280-E811-8287-005056BE4BF5",
+	"userName": "sql_dba",
+	"masterFindingDetails": [{
+		"masterFindingName": "IBM AIX 7.1 Risk New9",
+		"findingName": "IBM AIX 7.1 Risk New8",
+		"masterFindingSourceIdentifier": "TWE:IBM AIX 7.1 Risk New9",
+		"severity": "3",
+		"masterFindingDescription": "",
+		"masterFindingSourceCode": "TWE",
+		"intermediateFindingSourceCode": "TWE",
+		"intermediateFindingName": "IBM AIX 7.1 Risk New2",
+		"intermediateFindingSourceIdentifier": "TWE:IBM AIX 7.1 Risk New9",
+		"intermediateFindingDescription": "",
+		"assets": [{
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}]
+	}, {
+		"masterFindingName": "IBM AIX 7.1 Risk New2",
+		"findingName": "IBM AIX 7.1 Risk New2",
+		"masterFindingSourceIdentifier": "TWE:IBM AIX 7.1 Risk New2",
+		"severity": "1",
+		"masterFindingDescription": "",
+		"masterFindingSourceCode": "TWE",
+		"intermediateFindingSourceCode": "TWE",
+		"intermediateFindingName": "IBM AIX 7.1 Risk New2",
+		"intermediateFindingSourceIdentifier": "TWE:IBM AIX 7.1 Risk New2",
+		"intermediateFindingDescription": "",
+		"assets": [{
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}]
+	}, {
+		"masterFindingName": "IBM AIX 7.1 Risk New2",
+		"findingName": "IBM AIX 7.1 Risk New2",
+		"masterFindingSourceIdentifier": "TWE:IBM AIX 7.1 Risk New2",
+		"severity": "2",
+		"masterFindingDescription": "",
+		"masterFindingSourceCode": "TWE",
+		"intermediateFindingSourceCode": "TWE",
+		"intermediateFindingName": "IBM AIX 7.1 Risk New2",
+		"intermediateFindingSourceIdentifier": "TWE:IBM AIX 7.1 Risk New2",
+		"intermediateFindingDescription": "",
+		"assets": [{
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failedWaived"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00008.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00173.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00466.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00543.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxap00576.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00122.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00131.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}, {
+			"assetIpAddress": "New9testxgp00340.corp.New1test.int",
+			"assetType": "AIX Server",
+			"finding": "failed"
+		}]
+	}],
+	"matchCriterions": ["New9testxis01012.corp.New1test.int", "New9testxgp00122.corp.New1test.int", "New9testxap00008.corp.New1test.int", "New9testxd201008b.corp.New1test.int", "New9testxap00543.corp.New1test.int", "New9testxgp00340.corp.New1test.int", "New9testxap00466.corp.New1test.int", "New9testxap00576.corp.New1test.int", "New9testxap00173.corp.New1test.int", "New9testxgp00131.corp.New1test.int"]
+}
