@@ -1,0 +1,64 @@
+ICodeRepository {
+    RepositoryInstance create(RepositoryDefinition repositoryDefinition);
+}
+
+@Getter
+@SuperBuilder
+@NoArgsConstructor
+class RepositoryDefintion extends DefaultPropertiesProvider {
+    enum Type {
+        PRIVATE,
+        PUBLIC,
+        INTERNAL
+    };
+
+    private String name;
+    private String title;
+    private String description;
+    private Type type;
+}
+
+
+@Getter
+@SuperBuilder
+@NoArgsConstructor
+class RepositoryInstance extends RepositoryDefinition {
+    private String id;
+    private String url;
+    private String cloningUrl;
+    private Map<String, Object> owningUser;
+}
+
+
+abstract class AbstractRepository implements IRepository {
+    public RepositoryInstance create(Credentials credentials, RepositoryDefinition repositoryDefinition) {
+        // 1. Validate the inputs.
+
+
+        // 2. Authenticate
+        authenticateRequest(credentials);
+
+        // 3. Delegate to the connector for creating.
+        return createRepository(repositoryDefinition);
+    }
+
+    protected abstract void authenticateRequest(Credentials credentials);
+
+    protected abstract RepositoryInstance createRepository(RepositoryDefinition repositoryDefinition);
+}
+
+GitHub Connector
+----------------
+
+GitRepository implements ICodeRepository {
+    @Override
+    public RepositoryInstance create(final RepositoryDefinition repositoryDefinition) {
+        final GHRepository repo = GitHubClient.createRepository(....);
+        return gitHubMapper.transform(repo);
+    }
+}
+
+interface GitHubMapper {
+    @Mapping(source="", target="")
+    RepositoryInstance transform(GHRepository ghRepository);
+}
